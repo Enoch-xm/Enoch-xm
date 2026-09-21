@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, Enoch-xm there 👋
+
+I'm Enoch-xm, high school sudent at Guangdong Guangya Middle School.
+
+## My account
+
+[bilibili](https://space.bilibili.com/1348217652) | [Youtube](https://www.youtube.com/@Enoch_xm) | [X](https://x.com/Enoch_xm) | [pixiv](https://pixiv.me/enoch_xm)
+
+[luogu](https://www.luogu.com.cn/user/821481) | [codeforces](https://codeforces.com/profile/Enoch_TARDIS) | [atcoder](https://atcoder.jp/users/Enoch_xm)
 
 <!--
 **Enoch-xm/Enoch-xm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
