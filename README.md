@@ -1,4 +1,4 @@
-## Hi, Enoch-xm there 👋
+## Hi there 👋
 
 I'm Enoch-xm, high school sudent at Guangdong Guangya Middle School.
 
